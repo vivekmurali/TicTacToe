@@ -7,7 +7,7 @@
 * [ ] Check draw
 * [ ] Draw line for winner
 * [ ] Prevent two clicks on same location
-
+* [ ] Add animation
 
 ### Checkpoint 2 [Multiple Rooms]
 
